@@ -1,20 +1,13 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+# Contact
+-------
 
-This is a description of a teaching experience. You can use markdown like any other post.
+E-mail: chou [at] hlab.sys.es.osaka-u.ac.jp
+Address: 1-3 Machikaneyama, Toyonaka 560-8531, Japan
 
-Heading 1
-======
+# Links
+-------
 
-Heading 2
-======
-
-Heading 3
-======
+[Harada Lab.](https://www.roboticmanipulation.org/) 
+[Division of Systems Science and Applied Informatics](https://www.grad.sys.es.osaka-u.ac.jp/)
+[Graduate School of Engineering Science](https://www.es.osaka-u.ac.jp/en/)
+[Osaka University](https://www.osaka-u.ac.jp/en)
