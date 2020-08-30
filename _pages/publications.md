@@ -14,7 +14,7 @@ author_profile: true
 **Xinyi Zhang**, Damien Petit, Yukiyasu Domae, Ixchel G. Ramirez-Alpizar, Weiwei Wan, Kensuke Harada, The Robotics and Mechatronics Conference (ROBOMECH), 1P1-C10, 2019/06/05-08.
 
 **Error Analysis and Adjustment on Randomized Bin-picking**    
-**Xinyi Zhang**, Damien Petit, Yukiyasu Domae, Ixchel G. Ramirez-Alpizar, Weiwei Wan, Kensuke Harada, SICE SI, 2019/12/12-14. 
+**Xinyi Zhang**, Damien Petit, Yukiyasu Domae, Ixchel G. Ramirez-Alpizar, Weiwei Wan, Kensuke Harada, SI2019, 2019/12/12-14. 
 
 ## Journal
 
