@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Xinyi"
+title                    : "Zhang Xinyi / Robotic Manipulation"
 title_separator          : "-"
-name                     : &name "Zhang Xinyi / Robotic Manipulation"
+name                     : &name "Zhang Xinyi"
 description              : &description "Ph.D. student<br/>Osaka University<br/>Robotic Manipulation"
 url                      : https://xinyizzzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D student, Department of Systems Innovation, Osaka University"
   location         : "Osaka, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : 
   email            : "chou@hlab.sys.es.osaka-u.ac.jp"
   researchgate     : 
