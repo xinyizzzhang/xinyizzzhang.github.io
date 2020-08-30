@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+# Education
 ------
 * B.S. in Information Management and Information System, Tianjin University, China, 2012
 * M.S. in Systems Science and Applied Informatics, Osaka University, Japan, 2014
 * Ph.D in Systems Science and Applied Informatics, Osaka University, 2018 (expected)
 
-#Skills
+# Skills
 -------
 * Skill 1
 * Skill 2
