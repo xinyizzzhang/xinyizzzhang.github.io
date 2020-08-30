@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference
-
-### Domestic Conference
+# Domestic Conference
 
 **Motion Generation for Separating Tangled Objects in Robotic Bin-picking**    
 **Xinyi Zhang**, Keisuke Koyama, Weiwei Wan, Yukiyasu Domae, Kensuke Harada,  Conference of the Institute of Systems, Control and Information Engineers (SCI), OS07-4, 2020/5/20-22.
