@@ -12,7 +12,7 @@ I'm a Ph.D. student at Osaka University at [Harada Lab.](https://www.roboticmani
 
 ![avatar-w70](/images/frontpage.png)
 
-Research Topics
+# Research Topics
 ------
 
 - **Topological Solution to Entanlgement of Industrial Parts**
