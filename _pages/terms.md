@@ -1,39 +1,23 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: ""
 modified: 2016-06-06
 ---
 
-{% include base_path %}
-{% include toc %}
+# Contact
+-------
 
-## Privacy Policy
+E-mail: chou [at] hlab.sys.es.osaka-u.ac.jp
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Address: 1-3 Machikaneyama, Toyonaka 560-8531, Japan
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+# Links
+-------
 
-### Log Files
+[Harada Lab.](https://www.roboticmanipulation.org/) 
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+[Division of Systems Science and Applied Informatics](https://www.grad.sys.es.osaka-u.ac.jp/)
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+[Graduate School of Engineering Science](https://www.es.osaka-u.ac.jp/en/)
 
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+[Osaka University](https://www.osaka-u.ac.jp/en)
