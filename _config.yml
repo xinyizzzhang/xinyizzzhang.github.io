@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhang Xinyi"
 title_separator          : "-"
-name                     : &name "Zhang Xinyi"
+name                     : &name "Zhang Xinyi/Robotic Manipulation"
 description              : &description "Ph.D. student<br/>Osaka University<br/>Robotic Manipulation"
 url                      : https://xinyizzzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
