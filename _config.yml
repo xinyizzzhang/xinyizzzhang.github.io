@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Xinyi"
+title                    : "Xinyi Zhang"
 title_separator          : "-"
-name                     : &name "Zhang Xinyi"
+name                     : &name "Xinyi Zhang"
 description              : &description "Ph.D. student<br/>Osaka University<br/>Robotic Manipulation"
 url                      : https://xinyizzzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang Xinyi"
+  name             : "Xinyi Zhang"
   avatar           : "self.jpg"
   bio              : "Ph.D. student <br /> Robotics Manipulation <br /> Osaka University <br /> 🤖️🦉🐱📹🎸🎹🏀🏃"
   location         : "Osaka, Japan"
