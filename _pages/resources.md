@@ -1,3 +1,9 @@
-# To be continue...
+---
+layout: archive
+title: ""
+permalink: /resources/
+author_profile: true
+---
 
-Marked as TODO...
+# Still writing...
+
