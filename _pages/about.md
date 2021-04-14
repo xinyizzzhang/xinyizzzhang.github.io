@@ -31,20 +31,23 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 ## Projects
 
 
-- **Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
+**Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
 
-<img style="float: right;" width="320" src="/images/shaking.gif">
-In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
+<img align="right" width="250" src="/images/shaking.gif">
+
+<font size=70%>In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! </font>
+
+<span style="font-family:Calibri; font-size:4em;">In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! </span>
 
 
-- **Learning Motion for Separating Tangled Objects**
+**Learning Motion for Separating Tangled Objects**
 
 In this work, we introduce an end-to-end learning network to predict tilting motion of gripper for the purpose of separating grasped and tangled objects. We trained a lightweight deep learning network to predict which orientation the gripper should tilt. The experimental result shows when the robot is holding several tangled objects, the generated motion can ensure the robot gets rid of other objects and keep one object in the gripper. 
 
 
-- **Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
+**Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
 
-<img style="float: right;" width="320" src="/images/emap.jpg">
+<img align="right" width="320" src="/images/emap.jpg">
 This paper addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects. 
 
 
