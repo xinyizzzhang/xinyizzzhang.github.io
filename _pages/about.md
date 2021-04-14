@@ -31,14 +31,13 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ## Projects
 
-<div style="width: 100%;">
-    <div style="width: 50%; height: 100px; float: left; background: green;"> 
-        Left Div 
-    </div>
-    <div style="margin-left: 50%; height: 100px; background: blue;"> 
-        Right Div
-    </div>
+<div id="container">
+  <div id="left">Left</div>
+  <div id="right">Center</div>
+  <div id="center">Right</div>
 </div>
+
+
     
 <div style="width: 100%;">
     <div style="width: 70%; float: left; font-size=70%"> 
