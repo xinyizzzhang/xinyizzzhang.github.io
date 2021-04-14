@@ -29,39 +29,32 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ## Projects
 
------------------
-<span>
-**Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
+
+
+<span>**Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
 
 <span style="font-size:90%;text-align:justify">In this work, <img align="right" width="30%" src="/images/shaking.gif">we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! </span> 
+</span><span>
 
-</span>
-
------------------
-
-<span>
-
-**Learning Motion for Separating Tangled Objects**
-<span style="font-size:90%;text-align:justify">In this work, we introduce an end-to-end learning network to predict tilting motion of gripper for the purpose of separating grasped and tangled objects. We trained a lightweight deep learning network to predict which orientation the gripper should tilt. The experimental result shows when the robot is holding several tangled objects, the generated motion can ensure the robot gets rid of other objects and keep one object in the gripper. </span> 
-
-</span>
-
-<span>
-
-**Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
-
-<span style="font-size:90%;text-align:justify">This paper <img align="right" width="30%" src="/images/emap.jpg">addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects. </span> 
-
-</span>
-
------------------
-
-<span>
-
-**Online Error Commpensation for Randomized Bin-picking**
-
-<span style="font-size:90%;text-align:justify">We presented a two-stage method to realize the error compensation for randomized bin-picking. We focus on the calibration error between sensor frame and the robot frame by gradually refining calibration matrix. Moreover, the compensation process can be done online every time robot picks up the parts so that the updated calibration matrix can be used for the next picking. </span> 
+***
 
 
-</span>
+
+<span>**Learning Motion for Separating Tangled Objects**
+<span style="font-size:90%;text-align:justify">In this work, we introduce an end-to-end learning network to predict tilting motion of gripper for the purpose of separating grasped and tangled objects. We trained a lightweight deep learning network to predict which orientation the gripper should tilt. The experimental result shows when the robot is holding several tangled objects, the generated motion can ensure the robot gets rid of other objects and keep one object in the gripper. </span></span>
+
+***
+
+<span>**Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
+
+<span style="font-size:90%;text-align:justify">This paper <img align="right" width="30%" src="/images/emap.jpg">addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects. </span></span>
+
+***
+
+<span>**Online Error Commpensation for Randomized Bin-picking**
+
+<span style="font-size:90%;text-align:justify">We presented a two-stage method to realize the error compensation for randomized bin-picking. We focus on the calibration error between sensor frame and the robot frame by gradually refining calibration matrix. Moreover, the compensation process can be done online every time robot picks up the parts so that the updated calibration matrix can be used for the next picking. </span></span>
+
+
+
 
