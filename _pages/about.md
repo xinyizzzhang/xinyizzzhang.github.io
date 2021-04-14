@@ -31,13 +31,21 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ## Projects
 
-
+<div style="width: 100%;">
+    <div style="width: 50%; height: 100px; float: left; background: green;"> 
+        Left Div 
+    </div>
+    <div style="margin-left: 50%; height: 100px; background: blue;"> 
+        Right Div
+    </div>
+</div>
+    
 <div style="width: 100%;">
     <div style="width: 70%; float: left; font-size=70%"> 
         In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
     </div>
     <div style="margin-left: 30%;"> 
-         <img align="right" src="/images/shaking.gif">
+         <img src="/images/shaking.gif">
     </div>
 </div>
 
