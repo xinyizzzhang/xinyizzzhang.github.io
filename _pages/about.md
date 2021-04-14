@@ -34,7 +34,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 <span>
   **Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
 
-  <span style="font-size:90%;text-align:justify">In this work, <img align="right" width="30%" src="/images/shaking.gif">we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! </span> 
+  <span style="font-size:90%;text-align:justify">In this work, <img align="right" width="300" src="/images/shaking.gif">we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! </span> 
 </span>
     
 ***
@@ -51,7 +51,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 <span>
   **Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
 
-  <span style="font-size:90%;text-align:justify">This paper <img align="right" width="45%" src="/images/emap.jpg">addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects.
+  <span style="font-size:90%;text-align:justify">This paper <img align="right" width="380" src="/images/emap.jpg">addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects.
 </span>
     
 ***
