@@ -31,17 +31,15 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ## Projects
 
-<div id="project1">
-  <div class="heading">
-    <h2>Learning Motion for Separating Tangled Objects (Upgraded Version! )</h2>
-  </div>
-  </ br>
-  <div class="picture">
-    <img src="/images/shaking.gif" class="tweet" />
-  </div>
-  <div class="text">
-    In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
-  </div>
+
+<div style="width: 100%;">
+    <div style="width: 70%; height: 100px; float: left;"> 
+        In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
+    </div>
+    <div style="margin-left: 30%; height: 100px;"> 
+         <img src="/images/shaking.gif">
+    </div>
+</div>
 
 </div>
 
