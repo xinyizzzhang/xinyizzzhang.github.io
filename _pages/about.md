@@ -21,26 +21,28 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 ## Research Topics
 
 - Bin-picking strategies for complex physical phenomenon
-  - Grasp planning for complex-shaped industrial parts
-  - Motion Generation for separating entangled partrs
+ - Grasp planning for complex-shaped industrial parts
+ - Motion Generation for separating entangled partrs
 
 - Accuracy on vision-based bin-picking
-  - Online error commpensation
+ - Online error commpensation
 
 <br>
 
 ## Projects
 
 <div id="project1">
+  <div class="heading">
+    <h2>Learning Motion for Separating Tangled Objects (Upgraded Version! )</h2>
+  </div>
+  </ br>
   <div class="picture">
-    <div class="heading">
-      <h4>Learning Motion for Separating Tangled Objects (Upgraded Version! )</h4>
-    </div>
     <img src="/images/shaking.gif" class="tweet" />
   </div>
   <div class="text">
     In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
   </div>
+
 </div>
 
 - **Learning Motion for Separating Tangled Objects (Upgraded Version! )**
