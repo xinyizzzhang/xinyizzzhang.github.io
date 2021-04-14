@@ -14,9 +14,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ![avatar-w70](/images/frontpage.png)
 
-</br>
-</br>
-</br>
+<br>
 
 # Research Topics
 
@@ -24,9 +22,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
   - Grasp planning for complex-shaped industrial parts
   - Motion Generation for separating entangled partrs
 
-</br>
-</br>
-</br>
+<br>
 
 # Projects
 
