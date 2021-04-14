@@ -37,16 +37,13 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
         In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
     </div>
     <div style="margin-left: 30%;"> 
-         <img align="right" width="320" src="/images/emap.jpg">
+         <img align="right" src="/images/emap.jpg">
     </div>
 </div>
 
 </div>
 
-- **Learning Motion for Separating Tangled Objects (Upgraded Version! )**
 
-<img align="right" width="270" src="/images/shaking.gif">
-In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
 
 
 - **Learning Motion for Separating Tangled Objects**
