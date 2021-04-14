@@ -8,7 +8,7 @@ author_profile: true
 ## Domestic Conference
 -------
 
-**Topology-based Grasp Detection Avoiding Entanglement for Robotic Bin-picking**
+**Topology-based Grasp Detection Avoiding Entanglement for Robotic Bin-picking**    
 <span style="font-size:90%">**Xinyi Zhang**, Keisuke Koyama, Yukiyasu Domae,Weiwei Wan, Kensuke　Harada, SI2020, 3D3-17，2020/12/16-18. 
 
 **Motion Generation for Separating Tangled Objects in Robotic Bin-picking**    
