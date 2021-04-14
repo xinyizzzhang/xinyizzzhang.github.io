@@ -31,26 +31,11 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 ## Projects
 
-<div id="container">
-  <div id="left">Left</div>
-  <div id="right">Center</div>
-  <div id="center">Right</div>
-</div>
 
+- **Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
 
-    
-<div style="width: 100%;">
-    <div style="width: 70%; float: left; font-size=70%"> 
-        In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
-    </div>
-    <div style="margin-left: 30%;"> 
-         <img src="/images/shaking.gif">
-    </div>
-</div>
-
-</div>
-
-
+<img align="right" width="320" src="/images/shaking.gif">
+In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
 
 
 - **Learning Motion for Separating Tangled Objects**
@@ -68,4 +53,4 @@ This paper addresses the problem of picking up only one object at a time avoidin
 
 We presented a two-stage method to realize the error compensation for randomized bin-picking. We focus on the calibration error between sensor frame and the robot frame by gradually refining calibration matrix. Moreover, the compensation process can be done online every time robot picks up the parts so that the updated calibration matrix can be used for the next picking.
 
-
+</font>
