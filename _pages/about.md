@@ -12,7 +12,6 @@ redirect_from:
 
 I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [Osaka University](https://www.osaka-u.ac.jp/en), advised by [Professor Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/). My research interests include perception and planning for vision-based industrial picking under complex scenarios. I received my M.E. from Osaka University and B.E. from Tianjin University, China. 
 
-<br>
 
 ![avatar-w70](/images/frontpage.png)
 
@@ -25,7 +24,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
   - Motion Generation for separating entangled partrs
 
 - Accuracy on vision-based bin-picking
-  - Online error commpensation
+  - Online error compensation
 
 <br>
 
@@ -34,7 +33,7 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 - **Learning Motion for Separating Tangled Objects (Upgraded Verssion)**
 
-<img align="right" width="320" src="/images/shaking.gif">
+<img style="float: right;" width="320" src="/images/shaking.gif">
 In this work, we solve the entanglemenet problem by not only tilting motion of gripper. We generate a combined action call shake-and-pull with pre-defined frequency and distance. A force sensor mounted on the wrist of robot arm. While the gripper with entangled obejcts is rising, proposed method predict whether if the shake-and-pull action should be executed. See this picture! 
 
 
@@ -45,7 +44,7 @@ In this work, we introduce an end-to-end learning network to predict tilting mot
 
 - **Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
 
-<img align="right" width="320" src="/images/emap.jpg">
+<img style="float: right;" width="320" src="/images/emap.jpg">
 This paper addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects. 
 
 
