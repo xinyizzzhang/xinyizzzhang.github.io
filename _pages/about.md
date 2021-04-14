@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
+layout: archive
 redirect_from: 
   - /about/
   - /about.html
@@ -28,7 +29,7 @@ In this work, we introduce an end-to-end learning network to predict tilting mot
 
 - **Recognizing Entanlgement and Detecting Grasps for Randomized Bin-picking**
 
-<img align="right" width="200" src="/images/emap.jpg">
+<img align="right" width="320" src="/images/emap.jpg">
 This paper addresses the problem of picking up only one object at a time avoiding any entanglement in bin-picking. To cope with a difficult case where the complex-shaped objects are heavily entangled together, we propose a topology-based method that can generate non-tangle grasp positions on a single depth image. The core technique is entanglement map, which is a feature map to measure the entanglement possibilities obtained from the input image. We use entanglement map to select probable regions containing graspable objects. The optimum grasping pose is detected from the selected regions considering the collision between robot hand and objects. 
 
 - **Online Error Commpensation for Randomized Bin-picking**
