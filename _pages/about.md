@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---    
-# Short Bio
+### Short Bio
 
 I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [Osaka University](https://www.osaka-u.ac.jp/en), advised by [Professor Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/). My research interests include perception and planning for vision-based industrial picking under complex scenarios. I received my M.E. from Osaka University and B.E. from Tianjin University, China. 
 
@@ -16,15 +16,18 @@ I'm a Ph.D. student at [Harada Lab.](https://www.roboticmanipulation.org/) in [O
 
 <br>
 
-# Research Topics
+### Research Topics
 
 - Bin-picking strategies for complex physical phenomenon
   - Grasp planning for complex-shaped industrial parts
   - Motion Generation for separating entangled partrs
 
+- Accuracy on vision-based bin-picking
+  - Online error commpensation
+
 <br>
 
-# Projects
+### Projects
 
 - **Learning Motion for Separating Tangled Objects (Upgraded Version! )**
 
